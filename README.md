@@ -28,7 +28,7 @@ I am an Aspiring Full Stack Developer, as well as a 3rd+ Year Software Engineeri
 
 - :zap: In my free time, I make Git pushes to my Github account, start projects to enhance my skills across various programming languages, and research about various front-end and back-end frameworks, watch videos from tech content creators and 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-badgeContent-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
 )
 
 ---
