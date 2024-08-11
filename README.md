@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Jean, and I am an Aspiring Full Stack Software Engineer 
 
 <!--
 **jeanj14/jeanj14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
