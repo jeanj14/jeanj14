@@ -24,7 +24,7 @@ I am an Aspiring Full Stack Developer, as well as a 3rd+ Year Software Engineeri
 
 - :telescope: I’m currently self-studying Full Stack Web Development on Udemy, hoping to be contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring various developer paths and tech stacks.
 
 - :zap: In my free time, I make Git pushes to my Github account, start projects to enhance my skills across various programming languages, and research about various front-end and back-end frameworks, watch videos from tech content creators and 
 
