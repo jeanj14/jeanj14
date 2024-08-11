@@ -35,7 +35,7 @@ I am an Aspiring Full Stack Developer, as well as a 3rd+ Year Software Engineeri
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="frontend">
- :hammer_and_wrench: <h4>Frontend</h4>
+ <h4>:hammer_and_wrench: Frontend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
