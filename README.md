@@ -3,7 +3,7 @@
 ### :technologist: About Me :
 I am an Frontend Developer , specialising in ReactJS from Cape Town, South Africa.
 Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p style="text-align: center">:hammer: Currently busy with a React News Tabloid project, will let everyone know when it's done.</p>
+<p style="color: red; font-size: 40px;">:hammer: Currently busy with a React News Tabloid project, will let everyone know when it's done.</p>
 
 - :telescope: I’m currently self-studying Full Stack Web Development on Udemy, hoping to be contributing to frontend and backend for building web applications.
 
@@ -33,7 +33,7 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  title="Vite" alt="Vite" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="100" height="100"/>&nbsp;       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="100" height="100"/>&nbsp;       
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="100" height="100"/>&nbsp;
