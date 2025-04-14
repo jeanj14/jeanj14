@@ -14,8 +14,8 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
 )
 
-### :hammer_and_wrench: Languages and Tools :
-<div id="progamming_languages">
+   ### :hammer_and_wrench: Skills :
+<div id="progamming_languages" style="background-color: red">
    <h4>:hammer_and_wrench: Programming Languages</h4>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="100" height="100"/>&nbsp;
