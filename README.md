@@ -1,5 +1,4 @@
-## Welcome fellow coders !
-
+## Welcome fellow coders ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### :technologist: About Me :
 I am an Frontend Developer , specialising in ReactJS from Cape Town, South Africa.
 Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -11,8 +10,14 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I make videos, watch Netflix and chill. ☕
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
-)
+:mailbox:How to reach me:
+- Send me a invitation & message on Linked or send me any emails regarding job offers to my email
+
+⬇️ Click on the badges to learn more about me ⬇️
+<div id="badges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/my_email-red?style=for-the-badge&labelColor=red&link=mailto%3Ajeanj140222001%40gmail.com">
+  <a target="blank" href="https://www.linkedin.com/in/jean-jaques-pietersen-7a09b7214/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
 
 ### :hammer_and_wrench: Skills & Technologies :
 
@@ -43,7 +48,7 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <h4>:hammer_and_wrench: Backend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg"  title="Axios" alt="Axios" width="100" height="100"/>&nbsp;
-  <i class="devicon-express-original-wordmark colored"></i>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
@@ -59,18 +64,9 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
 <div id="jeanj14">
   <img src="https://komarev.com/ghpvc/?jeanj14&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
