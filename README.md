@@ -3,18 +3,23 @@
 ### :technologist: About Me :
 I am an Frontend Developer , specialising in ReactJS from Cape Town, South Africa.
 Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p style="color: red; font-size: 40px;">:hammer: Currently busy with a React News Tabloid project, will let everyone know when it's done.</p>
+<p style="color: red; font-size: 40px;">🔭 Currently busy with a React News Tabloid project, will let everyone know when it's done.</p>
 
 - :telescope: I’m currently self-studying Full Stack Web Development on Udemy, hoping to be contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring various developer paths and tech stacks.
+- :seedling: Still learning the ropes, debugging errors and improving my Dev skills to help the team.
 
-- :zap: In my free time, I make Git pushes to my Github account, start projects to enhance my skills across various programming languages, and research about various front-end and back-end frameworks, watch videos from tech content creators and 
+- :zap: In my free time, I make videos, watch Netflix and chill. ☕
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
 )
 
-   ### :hammer_and_wrench: Skills :
+### :hammer_and_wrench: Skills & Technologies :
+
+<div id="ideal package manager">
+     <h4>:hammer_and_wrench: My Preferred Package Manager</h4>  
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="100" height="100"/>&nbsp;
+</div>
 <div id="progamming_languages" style="background-color: red">
    <h4>:hammer_and_wrench: Programming Languages</h4>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
@@ -23,10 +28,6 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="100" height="100"/>&nbsp;
           
-</div>
-<div id="ideal package manager>
-     <h4>:hammer_and_wrench: My Preferred Package Manager</h4>  
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="100" height="100"/>&nbsp;
 </div>
 <div id="frontend">
  <h4>:hammer_and_wrench: Frontend</h4>
@@ -42,13 +43,12 @@ Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <h4>:hammer_and_wrench: Backend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg"  title="Axios" alt="Axios" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" alt="Express" width="100" height="100"/>&nbsp;
+  <i class="devicon-express-original-wordmark colored"></i>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="100" height="100"/>&nbsp;  
 </div>
-
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="190" height="100"/>&nbsp;
