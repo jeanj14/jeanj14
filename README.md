@@ -1,4 +1,20 @@
-## My Personal GitHub Profile
+## Welcome fellow coders !
+
+### :technologist: About Me :
+I am an Frontend Developer , specialising in ReactJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cape Town, South Africa.
+Currently busy with a React News Tabloid project, will let everyone know when it's done. Happy coding everyone :)
+
+- :telescope: I’m currently self-studying Full Stack Web Development on Udemy, hoping to be contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring various developer paths and tech stacks.
+
+- :zap: In my free time, I make Git pushes to my Github account, start projects to enhance my skills across various programming languages, and research about various front-end and back-end frameworks, watch videos from tech content creators and 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
+)
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -18,20 +34,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-### :technologist: About Me :
-I am an Aspiring Full Stack Developer, as well as a 3rd+ Year Software Engineering student at Eduvos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-
-- :telescope: I’m currently self-studying Full Stack Web Development on Udemy, hoping to be contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring various developer paths and tech stacks.
-
-- :zap: In my free time, I make Git pushes to my Github account, start projects to enhance my skills across various programming languages, and research about various front-end and back-end frameworks, watch videos from tech content creators and 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white:badgeContent)](www.linkedin.com/in/jean-jaques-pietersen-7a09b7214
-)
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="frontend">
