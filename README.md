@@ -1,17 +1,19 @@
 ## Welcome fellow coders ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### :technologist: About Me :
-I am an Frontend Developer , specialising in ReactJS from Cape Town, South Africa.
+I am a Determined IT Graduate aspiring to kickstart my career in Software Engineering or any adjacent roles. I am passionate about coding and programming.
+
+
 Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p style="color: red; font-size: 40px;">🔭 Currently busy with a React News Tabloid project, will let everyone know when it's done.</p>
 
-- :telescope: I’m currently self-studying Full Stack Web Development on Udemy, hoping to be contributing to frontend and backend for building web applications.
+- :telescope: I finished my Bachelors of Science in Information Technology in Software Engineering.
 
 - :seedling: Still learning the ropes, debugging errors and improving my Dev skills to help the team.
 
-- :zap: In my free time, I make videos, watch Netflix and chill. ☕
+- :zap: I play videogames during my free-time :video_game:
 
 :mailbox:How to reach me:
-- Send me a invitation & message on Linked or send me any emails regarding job offers to my email
+- Send me a invitation & message on Linked or email me at jeanjaquespietersen@proton.me 
 
 ⬇️ Click on the badges to learn more about me ⬇️
 <div id="badges">
