@@ -4,7 +4,7 @@ I am a Determined IT Graduate aspiring to kickstart my career in Software Engine
 
 
 Happy coding everyone :) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p style="color: red; font-size: 40px;">🔭 Currently busy with a React News Tabloid project, will let everyone know when it's done.</p>
+<p style="color: red; font-size: 40px;">
 
 - :telescope: I finished my Bachelors of Science in Information Technology in Software Engineering.
 
